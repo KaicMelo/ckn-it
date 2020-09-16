@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/app/layout/layout.js": "/js/app/layout/layout.js",
+    "/js/modules/collaborator/collaborator.js": "/js/modules/collaborator/collaborator.js",
+    "/js/modules/home/home.js": "/js/modules/home/home.js",
+    "/js/modules/login/login.js": "/js/modules/login/login.js",
+    "/js/modules/recepcao/recepcao.js": "/js/modules/recepcao/recepcao.js"
+}
